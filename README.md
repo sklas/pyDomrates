@@ -6,9 +6,11 @@ With pyDomrates you can infer four main types of events being responsible for ne
 3. loss of domains in an arrangement and
 4. addition of novel domains.
 
-Details of the algorithm can be found in (cite moore, kersting, domrates(submitted, maybe biorxive?)).
+Details of the algorithm can be found in ["Quantification and functional analysis of modular protein evolution in a dense phylogenetic tree"](https://www.sciencedirect.com/science/article/pii/S1570963913000186?via%3Dihub) (Moore et al. 2013, Biochim Biophys Acta). A manuscript describing the algorithm is in preparation.
+It was developed at [bornberglab](www.bornberglab.de).
 
-**We strongly encourage you to use our new C++ implementation of domrates! Check out https://domainworld.uni-muenster.de/programs/domrates/ and https://ebbgit.uni-muenster.de/domainWorld/DomRates**
+
+**We strongly recommend to use our new C++ implementation of domrates! Check out https://domainworld.uni-muenster.de/programs/domrates/ and https://ebbgit.uni-muenster.de/domainWorld/DomRates**
 
 The tool takes three inputs: 
 * A phylogenetic tree of the species of interest,
